@@ -1,0 +1,13 @@
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\bin\Debug\netcoreapp3.1\PatternBuilder_pizza.exe
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\bin\Debug\netcoreapp3.1\PatternBuilder_pizza.deps.json
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\bin\Debug\netcoreapp3.1\PatternBuilder_pizza.runtimeconfig.json
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\bin\Debug\netcoreapp3.1\PatternBuilder_pizza.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\bin\Debug\netcoreapp3.1\PatternBuilder_pizza.dll
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\bin\Debug\netcoreapp3.1\PatternBuilder_pizza.pdb
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\obj\Debug\netcoreapp3.1\PatternBuilder_pizza.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\obj\Debug\netcoreapp3.1\PatternBuilder_pizza.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\obj\Debug\netcoreapp3.1\PatternBuilder_pizza.AssemblyInfo.cs
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\obj\Debug\netcoreapp3.1\PatternBuilder_pizza.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\obj\Debug\netcoreapp3.1\PatternBuilder_pizza.dll
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\obj\Debug\netcoreapp3.1\PatternBuilder_pizza.pdb
+C:\Users\Professional\source\repos\PatternBuilder_pizza\PatternBuilder_pizza\obj\Debug\netcoreapp3.1\PatternBuilder_pizza.genruntimeconfig.cache
