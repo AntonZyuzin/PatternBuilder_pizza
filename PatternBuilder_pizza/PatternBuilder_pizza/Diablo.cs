@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PatternBuilderPizza
 {
-    class Diablo : PizzaInterface
+    class Diablo : Pizza
     {
         public void SetDough(string dough)
         {
