@@ -6,17 +6,17 @@ namespace PatternBuilderPizza
 {
     class Margarita : Pizza
     {
-        public void setDough(string dough)
+        public void SetDough(string dough)
         {
             Console.WriteLine("Ингредиенты:\n" + dough);
         }
 
-        public void setFilling(string filling)
+        public void SetFilling(string filling)
         {
             Console.WriteLine(filling);
         }
 
-        public void setSauce(string sauce)
+        public void SetSauce(string sauce)
         {
             Console.WriteLine(sauce);
         }
