@@ -6,8 +6,8 @@ namespace PatternBuilderPizza
 {
     interface Pizza
     {
-        void setDough(string dough);
-        void setSauce(string sauce);
-        void setFilling(string filling);
+        void SetDough(string dough);
+        void SetSauce(string sauce);
+        void SetFilling(string filling);
     }
 }
